@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11024999-4e6f-4c22-b728-a1a80f96528c",
+    "title": "jawan",
+    "genre": "action",
+    "rating": 8
+  },
+  {
+    "id": "961d9690-5ae1-4ed3-975a-5df64873e882",
+    "title": "salaar",
+    "genre": "action",
+    "rating": 7
+  },
+  {
+    "id": "15cf7f55-6c32-4cd4-a50c-2be66abd6070",
+    "title": "dunki",
+    "genre": "romance",
+    "rating": 8
+  },
+  {
+    "id": "a2683b9a-fa6d-4b0b-8f7c-b61de357f612",
+    "title": "home coming",
+    "genre": "action",
+    "rating": 9
+  }
+]
